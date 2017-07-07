@@ -73,7 +73,7 @@ package quizs.from.geeksforgeeks.amazon;
  *
  * Created by agebriel on 7/4/17.
  */
-public class NumberOfGroupsOfSizes2OrThreeDivisibleBy3
+public class NumberOfGroupsOfSizes2Or3DivisibleBy3
 {
 	private static int numOfCombinations(int arr[], int N)
 	{
