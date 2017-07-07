@@ -2,37 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b56bc74f-46fd-48e3-b278-2e7597f615aa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/shortestsubsegment/AVLTrees.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/ArrayElements.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/BoundaryTraversalOfBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/leetcode/ConcatOfWordsInString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/ConnectNodesAtSameLevel.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/ConnectedSets.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/FibonacciFactor.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/FindAnagramInString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/FirstLetterWord.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/leetcode/FirstMissingPositiveNum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/leetcode/IndicesAdder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/LinkedListContentModifier.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/leetcode/MedianOfTwoSortedArrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/MeetingSchedules.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/leetcode/MergeKLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/MinIterationsOfFillingNeighbors.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/MinSumSqrCharCountInStr.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/Nextplaindrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/NumberOfGroupsOfSizes2OrThreeDivisibleBy3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/NumberOfOccurrencesInArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/PatternSearch.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/shortestsubsegment/Queue.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/leetcode/RegexMatchSupport.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/SecondMostRepeatedWordInSequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/shortestsubsegment/ShortestSubSegment.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/shortestsubsegment/StringAVLTrees.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/SumPropertyInBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/leetcode/TrappingRainWater.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/UncommonCharactersOfTwoStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/leetcode/WellFormedCharPairs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/leetcode/WellFormedParenthesis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/CircularTourToVisitPetrolPumps.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/HeightOfBinaryTree.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/KMPPatternSearch.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/NumberOfBuildingsFacingTheSun.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/RKPatternSearch.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/PatternSearch.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/NumberOfGroupsOfSizes2OrThreeDivisibleBy3.java" afterPath="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/NumberOfGroupsOfSizes2Or3DivisibleBy3.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="quiz-corner.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -120,6 +97,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="CircularTourToVisitPetrolPumps.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/CircularTourToVisitPetrolPumps.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="1575">
+              <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+              <folding>
+                <element signature="docComment;class#CircularTourToVisitPetrolPumps#0" expanded="true" />
+                <element signature="method#PetrolPump#0;class#PetrolPump#0;class#CircularTourToVisitPetrolPumps#0" expanded="true" />
+                <element signature="method#main#0;class#CircularTourToVisitPetrolPumps#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ConcatOfWordsInString.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/leetcode/ConcatOfWordsInString.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,16 +132,6 @@
                 <element signature="docComment;class#ConnectedSets#0" expanded="true" />
                 <element signature="method#color#0;class#ConnectedSets#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RegexMatchSupport.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/leetcode/RegexMatchSupport.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="27" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -210,13 +191,48 @@
       <file leaf-file-name="FirstMissingPositiveNum.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/leetcode/FirstMissingPositiveNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1365">
-              <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1365">
+              <caret line="54" column="30" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="30" />
               <folding>
                 <element signature="docComment;class#FirstMissingPositiveNum#0" expanded="true" />
+                <element signature="method#main#0;class#FirstMissingPositiveNum#0" expanded="true" />
                 <element signature="method#findMissing#0;class#FirstMissingPositiveNum#0" expanded="true" />
-                <element signature="method#findMissingPositive#0;class#FirstMissingPositiveNum#0" expanded="true" />
                 <element signature="method#segement#0;class#FirstMissingPositiveNum#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeightOfBinaryTree.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/HeightOfBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="1605">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1675#1676#0" expanded="true" />
+                <element signature="e#1700#1701#0" expanded="true" />
+                <element signature="method#getTreeHeight#0;class#HeightOfBinaryTree#0" expanded="true" />
+                <element signature="e#1824#1830#0" expanded="true" />
+                <element signature="method#main#0;class#HeightOfBinaryTree#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KMPPatternSearch.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/KMPPatternSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="1620">
+              <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+              <folding>
+                <element signature="docComment;class#KMPPatternSearch#0" expanded="true" />
+                <element signature="docComment;method#hasSubstring#0;class#KMPPatternSearch#0" expanded="true" />
+                <element signature="method#hasSubstring#0;class#KMPPatternSearch#0" expanded="true" />
+                <element signature="docComment;method#computeTemporaryArray#0;class#KMPPatternSearch#0" expanded="true" />
+                <element signature="method#computeTemporaryArray#0;class#KMPPatternSearch#0" expanded="true" />
+                <element signature="docComment;method#KMP#0;class#KMPPatternSearch#0" expanded="true" />
+                <element signature="method#main#0;class#KMPPatternSearch#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -281,6 +297,32 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="NumberOfBuildingsFacingTheSun.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/NumberOfBuildingsFacingTheSun.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="645">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+              <folding>
+                <element signature="docComment;class#NumberOfBuildingsFacingTheSun#0" expanded="true" />
+                <element signature="method#main#0;class#NumberOfBuildingsFacingTheSun#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxNumOf0sByFlippingSubArray.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/MaxNumOf0sByFlippingSubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.33817428" vertical-offset="298" max-vertical-offset="780">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+              <folding>
+                <element signature="method#max0sCount#0;class#MaxNumOf0sByFlippingSubArray#0" expanded="true" />
+                <element signature="method#main#0;class#MaxNumOf0sByFlippingSubArray#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="NumberOfOccurrencesInArray.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/NumberOfOccurrencesInArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -292,20 +334,6 @@
                 <element signature="e#1762#1908#0" expanded="true" />
                 <element signature="e#1903#1904#0" expanded="true" />
                 <element signature="method#main#0;class#NumberOfOccurrencesInArray#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PatternSearch.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/PatternSearch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7326923" vertical-offset="699" max-vertical-offset="1260">
-              <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
-              <folding>
-                <element signature="docComment;class#PatternSearch#0" expanded="true" />
-                <element signature="method#search#0;class#PatternSearch#0" expanded="true" />
-                <element signature="method#compare#0;class#PatternSearch#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -336,6 +364,29 @@
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="195">
               <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegexMatchSupport.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/leetcode/RegexMatchSupport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+              <caret line="28" column="24" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RKPatternSearch.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/RKPatternSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="1980">
+              <caret line="117" column="47" selection-start-line="117" selection-start-column="47" selection-end-line="117" selection-end-column="47" />
+              <folding>
+                <element signature="docComment;class#RKPatternSearch#0" expanded="true" />
+                <element signature="method#search#0;class#RKPatternSearch#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -489,12 +540,20 @@
         <option value="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/SumPropertyInBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/FindAnagramInString.java" />
         <option value="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/PatternSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/RKPatternSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/KMPPatternSearch.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/NumberOfBuildingsFacingTheSun.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/HeightOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/HeightOfBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/CircularTourToVisitPetrolPumps.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/MaxNumOf0sByFlippingSubarray.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/MaxNumOf0sByFlippingSubArray.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="84" />
-    <option name="y" value="25" />
+    <option name="x" value="307" />
+    <option name="y" value="29" />
     <option name="width" value="1680" />
     <option name="height" value="978" />
   </component>
@@ -669,44 +728,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quiz-corner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="quiz-corner" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="from" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="geeksforgeeks" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="amazon" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="SumPropertyInBinaryTree.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -731,15 +752,15 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dynamic.classpath" value="false" />
   </component>
-  <component name="RunManager" selected="Application.PatternSearch">
-    <configuration default="false" name="FirstMissingPositiveNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.MaxNumOf0sByFlippingSubArray">
+    <configuration default="false" name="KMPPatternSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="quizs.from.leetcode.*" />
+          <option name="PATTERN" value="quizs.from.geeksforgeeks.amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="quizs.from.leetcode.FirstMissingPositiveNum" />
+      <option name="MAIN_CLASS_NAME" value="quizs.from.geeksforgeeks.amazon.KMPPatternSearch" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -758,14 +779,14 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
-    <configuration default="false" name="NumberOfOccurrencesInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="NumberOfBuildingsFacingTheSun" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="quizs.from.geeksforgeeks.amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="quizs.from.geeksforgeeks.amazon.NumberOfOccurrencesInArray" />
+      <option name="MAIN_CLASS_NAME" value="quizs.from.geeksforgeeks.amazon.NumberOfBuildingsFacingTheSun" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -784,14 +805,14 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
-    <configuration default="false" name="SumPropertyInBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="HeightOfBinaryTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="quizs.from.geeksforgeeks.amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="quizs.from.geeksforgeeks.amazon.SumPropertyInBinaryTree" />
+      <option name="MAIN_CLASS_NAME" value="quizs.from.geeksforgeeks.amazon.HeightOfBinaryTree" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -810,14 +831,14 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
-    <configuration default="false" name="FindAnagramInString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="CircularTourToVisitPetrolPumps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="quizs.from.geeksforgeeks.amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="quizs.from.geeksforgeeks.amazon.FindAnagramInString" />
+      <option name="MAIN_CLASS_NAME" value="quizs.from.geeksforgeeks.amazon.CircularTourToVisitPetrolPumps" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -836,14 +857,14 @@
       <ConfigurationWrapper RunnerId="Debug" />
       <method />
     </configuration>
-    <configuration default="false" name="PatternSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="MaxNumOf0sByFlippingSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="quizs.from.geeksforgeeks.amazon.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="quizs.from.geeksforgeeks.amazon.PatternSearch" />
+      <option name="MAIN_CLASS_NAME" value="quizs.from.geeksforgeeks.amazon.MaxNumOf0sByFlippingSubArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1096,19 +1117,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.FirstMissingPositiveNum" />
-      <item index="1" class="java.lang.String" itemvalue="Application.NumberOfOccurrencesInArray" />
-      <item index="2" class="java.lang.String" itemvalue="Application.SumPropertyInBinaryTree" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FindAnagramInString" />
-      <item index="4" class="java.lang.String" itemvalue="Application.PatternSearch" />
+      <item index="0" class="java.lang.String" itemvalue="Application.KMPPatternSearch" />
+      <item index="1" class="java.lang.String" itemvalue="Application.NumberOfBuildingsFacingTheSun" />
+      <item index="2" class="java.lang.String" itemvalue="Application.HeightOfBinaryTree" />
+      <item index="3" class="java.lang.String" itemvalue="Application.CircularTourToVisitPetrolPumps" />
+      <item index="4" class="java.lang.String" itemvalue="Application.MaxNumOf0sByFlippingSubArray" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.PatternSearch" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FindAnagramInString" />
-        <item index="2" class="java.lang.String" itemvalue="Application.SumPropertyInBinaryTree" />
-        <item index="3" class="java.lang.String" itemvalue="Application.FirstMissingPositiveNum" />
-        <item index="4" class="java.lang.String" itemvalue="Application.NumberOfOccurrencesInArray" />
+        <item index="0" class="java.lang.String" itemvalue="Application.MaxNumOf0sByFlippingSubArray" />
+        <item index="1" class="java.lang.String" itemvalue="Application.CircularTourToVisitPetrolPumps" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HeightOfBinaryTree" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NumberOfBuildingsFacingTheSun" />
+        <item index="4" class="java.lang.String" itemvalue="Application.KMPPatternSearch" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -1123,15 +1144,15 @@
       <created>1499143999281</created>
       <updated>1499143999281</updated>
       <workItem from="1499144004906" duration="45367000" />
-      <workItem from="1499302747252" duration="24486000" />
+      <workItem from="1499302747252" duration="51498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69853000" />
+    <option name="totallyTimeSpent" value="96865000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="84" y="25" width="1680" height="978" extended-state="0" />
+    <frame x="307" y="29" width="1680" height="978" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1150,7 +1171,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32921812" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39559165" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.42459396" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="RESTClient" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3259861" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1184,7 +1205,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -1259,8 +1280,8 @@
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding>
             <element signature="docComment;class#FirstMissingPositiveNum#0" expanded="true" />
+            <element signature="method#main#0;class#FirstMissingPositiveNum#0" expanded="true" />
             <element signature="method#findMissing#0;class#FirstMissingPositiveNum#0" expanded="true" />
-            <element signature="method#findMissingPositive#0;class#FirstMissingPositiveNum#0" expanded="true" />
             <element signature="method#segement#0;class#FirstMissingPositiveNum#0" expanded="true" />
           </folding>
         </state>
@@ -1311,12 +1332,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/NumberOfGroupsOfSizes2OrThreeDivisibleBy3.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/NumberOfGroupsOfSizes2Or3DivisibleBy3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0" vertical-offset="836" max-vertical-offset="1755">
           <caret line="84" column="9" selection-start-line="84" selection-start-column="9" selection-end-line="84" selection-end-column="9" />
           <folding>
-            <element signature="method#main#0;class#NumberOfGroupsOfSizes2OrThreeDivisibleBy3#0" expanded="false" />
+            <element signature="method#main#0;class#NumberOfGroupsOfSizes2Or3DivisibleBy3#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1529,19 +1550,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/leetcode/FirstMissingPositiveNum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1365">
-          <caret line="33" column="39" selection-start-line="33" selection-start-column="39" selection-end-line="33" selection-end-column="39" />
-          <folding>
-            <element signature="docComment;class#FirstMissingPositiveNum#0" expanded="true" />
-            <element signature="method#findMissing#0;class#FirstMissingPositiveNum#0" expanded="true" />
-            <element signature="method#findMissingPositive#0;class#FirstMissingPositiveNum#0" expanded="true" />
-            <element signature="method#segement#0;class#FirstMissingPositiveNum#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/SumPropertyInBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="270" max-vertical-offset="915">
@@ -1678,14 +1686,91 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/PatternSearch.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/RKPatternSearch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7326923" vertical-offset="699" max-vertical-offset="1260">
-          <caret line="72" column="49" selection-start-line="72" selection-start-column="49" selection-end-line="72" selection-end-column="49" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1200" max-vertical-offset="1980">
+          <caret line="117" column="47" selection-start-line="117" selection-start-column="47" selection-end-line="117" selection-end-column="47" />
           <folding>
-            <element signature="docComment;class#PatternSearch#0" expanded="true" />
-            <element signature="method#search#0;class#PatternSearch#0" expanded="true" />
-            <element signature="method#compare#0;class#PatternSearch#0" expanded="true" />
+            <element signature="docComment;class#RKPatternSearch#0" expanded="true" />
+            <element signature="method#search#0;class#RKPatternSearch#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/KMPPatternSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="855" max-vertical-offset="1620">
+          <caret line="81" column="11" selection-start-line="81" selection-start-column="11" selection-end-line="81" selection-end-column="11" />
+          <folding>
+            <element signature="docComment;class#KMPPatternSearch#0" expanded="true" />
+            <element signature="docComment;method#hasSubstring#0;class#KMPPatternSearch#0" expanded="true" />
+            <element signature="method#hasSubstring#0;class#KMPPatternSearch#0" expanded="true" />
+            <element signature="docComment;method#computeTemporaryArray#0;class#KMPPatternSearch#0" expanded="true" />
+            <element signature="method#computeTemporaryArray#0;class#KMPPatternSearch#0" expanded="true" />
+            <element signature="docComment;method#KMP#0;class#KMPPatternSearch#0" expanded="true" />
+            <element signature="method#main#0;class#KMPPatternSearch#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/leetcode/FirstMissingPositiveNum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1365">
+          <caret line="54" column="30" selection-start-line="54" selection-start-column="15" selection-end-line="54" selection-end-column="30" />
+          <folding>
+            <element signature="docComment;class#FirstMissingPositiveNum#0" expanded="true" />
+            <element signature="method#main#0;class#FirstMissingPositiveNum#0" expanded="true" />
+            <element signature="method#findMissing#0;class#FirstMissingPositiveNum#0" expanded="true" />
+            <element signature="method#segement#0;class#FirstMissingPositiveNum#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/HeightOfBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="705" max-vertical-offset="1605">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1675#1676#0" expanded="true" />
+            <element signature="e#1700#1701#0" expanded="true" />
+            <element signature="method#getTreeHeight#0;class#HeightOfBinaryTree#0" expanded="true" />
+            <element signature="e#1824#1830#0" expanded="true" />
+            <element signature="method#main#0;class#HeightOfBinaryTree#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/CircularTourToVisitPetrolPumps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="780" max-vertical-offset="1575">
+          <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+          <folding>
+            <element signature="docComment;class#CircularTourToVisitPetrolPumps#0" expanded="true" />
+            <element signature="method#PetrolPump#0;class#PetrolPump#0;class#CircularTourToVisitPetrolPumps#0" expanded="true" />
+            <element signature="method#main#0;class#CircularTourToVisitPetrolPumps#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/NumberOfBuildingsFacingTheSun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="645">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
+          <folding>
+            <element signature="docComment;class#NumberOfBuildingsFacingTheSun#0" expanded="true" />
+            <element signature="method#main#0;class#NumberOfBuildingsFacingTheSun#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizs/from/geeksforgeeks/amazon/MaxNumOf0sByFlippingSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.33817428" vertical-offset="298" max-vertical-offset="780">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+          <folding>
+            <element signature="method#max0sCount#0;class#MaxNumOf0sByFlippingSubArray#0" expanded="true" />
+            <element signature="method#main#0;class#MaxNumOf0sByFlippingSubArray#0" expanded="true" />
           </folding>
         </state>
       </provider>

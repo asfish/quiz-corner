@@ -1,5 +1,10 @@
 package quizs.from.geeksforgeeks.amazon;
 
+import java.util.LinkedList;
+import java.util.concurrent.ArrayBlockingQueue;
+
+import quizs.from.geeksforgeeks.amazon.shortestsubsegment.Queue;
+
 /**
  *
  * Iterative Method to find Height of Binary Tree:
@@ -44,5 +49,53 @@ package quizs.from.geeksforgeeks.amazon;
  */
 public class HeightOfBinaryTree
 {
+	private static class Node{
+		Node left, right;
+		int data;
 
+		public Node(int data){
+			this.data = data;
+		}
+	}
+
+	private static int getTreeHeight(Node root)
+	{
+		if(root == null)
+			return 0;
+
+		LinkedList<Node> q = new LinkedList<Node>();
+		q.add(root);
+		int height = 0;
+
+		while(true)
+		{
+			int nodeCount = q.size();
+			if(nodeCount==0)
+				return height;
+
+			height++;
+			while (nodeCount > 0)
+			{
+				Node n = q.peek();
+				q.remove();
+				nodeCount--;
+				if(n.left != null)
+					q.add(n.left);
+				if(n.right != null)
+					q.add(n.right);
+			}
+		}
+
+	}
+
+	public static void main(String args[])
+	{
+		// Let us create a binary tree shown in above diagram
+		Node root = new Node(1);
+		root.left = new Node(2);
+		root.right = new Node(3);
+		root.left.left = new Node(4);
+		root.left.right = new Node(5);
+		System.out.println("Height of tree is " + getTreeHeight(root));
+	}
 }

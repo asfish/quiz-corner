@@ -49,6 +49,9 @@ package quizs.from.geeksforgeeks.amazon;
         h: d^(m-1)
  *
  * http://www.geeksforgeeks.org/searching-for-patterns-set-3-rabin-karp-algorithm/
+ *
+ * time complexity O(mn)
+ *
  * Created by agebriel on 7/6/17.
  */
 public class RKPatternSearch
