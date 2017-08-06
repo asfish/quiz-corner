@@ -141,5 +141,7 @@ public class ConnectedSets
 			if(matrix[x+1][y]==1)
 				color(matrix,x+1,y,clr);
 		}
+
+		boolean b = true && true;
 	}
 }
