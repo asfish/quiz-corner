@@ -146,4 +146,30 @@ public class MedianOfTwoSortedArrays
 		int median = (ar1.length + ar2.length)%2 == 0 ? (m1 + m2)/2 : m1 > m2 ? m1 : m2 ;
 		System.out.println("The median is: " + median);
 	}
+	
+	//This is another option to find the mean
+	private static double median(int ar1[], int ar2[]){
+         int len = (ar1.length + ar2.length)/2 + 1;
+         int min[] = new int[len];
+         int index=0, a1=0, a2=0;
+         for(int i=0; i<len; i++){
+             if(ar1[a1]<=ar2[a2]){
+                 min[index]=ar1[a1];
+                 a1++;
+                 index++;
+             }
+             else{
+                 min[index]=ar2[a2];
+                 a2++;
+                 index++;
+             }
+         }
+         for(int i=0; i<len; i++)
+            System.out.print(min[i]+" ");
+            
+        if((ar1.length + ar2.length)%2==0)
+            return (double)((min[len-1] + min[len-2])/2);
+        else
+            return min[len-1];
+     }
 }
