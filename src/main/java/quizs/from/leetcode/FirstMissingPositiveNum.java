@@ -82,4 +82,20 @@ public class FirstMissingPositiveNum
 
 		return j;
 	}
+	
+	private static int getmissing(int nums[]){
+         int missing = 1;
+         while(true){
+             System.out.println("search for " + missing);
+             for(int i=0; i<nums.length; i++){
+                 if(nums[i] == missing){
+                     break;
+                 }
+                 else if(i==nums.length-1){
+                     return missing;
+                 }
+             }
+             missing++;
+         }
+     }
 }
