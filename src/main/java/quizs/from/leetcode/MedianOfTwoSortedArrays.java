@@ -153,7 +153,7 @@ public class MedianOfTwoSortedArrays
          int min[] = new int[len];
          int index=0, a1=0, a2=0;
          for(int i=0; i<len; i++){
-             if(ar1[a1]<=ar2[a2]){
+             if(a1 < ar1.length && ar1[a1]<=ar2[a2]){
                  min[index]=ar1[a1];
                  a1++;
                  index++;
@@ -168,7 +168,7 @@ public class MedianOfTwoSortedArrays
             System.out.print(min[i]+" ");
             
         if((ar1.length + ar2.length)%2==0)
-            return (double)((min[len-1] + min[len-2])/2);
+            return ((double)(min[len-1] + min[len-2])/2);
         else
             return min[len-1];
      }
