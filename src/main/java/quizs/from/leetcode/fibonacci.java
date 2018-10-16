@@ -35,6 +35,14 @@ public class HelloWorld{
 **     print(ls)
 **     break
 
+def fib(num):
+  f = [0,1]
+  while(True):
+    f.append(f[-2]+f[-1])
+    if((f[-2]+f[-1])>num):
+       print(f)
+       return f
+
 ** if '__main__' == __name__:
 **  fibonaci()
 **  
